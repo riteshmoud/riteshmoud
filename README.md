@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">A passionate web developer from India who loves software and people building it.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshmoud" alt="riteshmoud" /></a> </p>
+- 🌱 I’m currently learning **advanced JavaSript and React**
+
+- 💬 Looking for **Frontend and Full Stack Developer Roles**
 
 - 📫 How to reach me **moudritesh@gmail.com**
 
