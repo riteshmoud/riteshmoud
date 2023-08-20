@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">A passionate web developer from India who loves software and people building it.</h3>
+<h3 align="center">A passionate web developer from India who loves softwares and people building it.</h3>
 
 - 🌱 I’m currently learning **advanced JavaSript and React**
 
