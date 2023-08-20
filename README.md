@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **advanced JavaSript and React**
 
-- 👨‍💻 Leetcoding [Data Structures and Algorithms](Data Structures and Algorithms)
+- 👨‍💻 Leetcoding **Data Structures and Algorithms**
 
 - 💬 Looking for **Frontend and Full Stack Developer Roles**
 
