@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **moudritesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C8sUVyGkOJRQaUaZ9VRnsAcH8JiNFR8g/view?usp=sharing](https://drive.google.com/file/d/1C8sUVyGkOJRQaUaZ9VRnsAcH8JiNFR8g/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1k8sTwIsNbmAy9uvAANfyvqB_DYp71-xT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
