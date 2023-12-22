@@ -4,7 +4,8 @@ Hi 👋 My name is Ritesh Moud
 Full Stack Developer
 --------------------
 
-Let's convert an idea into code!! Hello, I am a Full Stack Developer experienced in building web applications with modern design. I have been into coding from last 3 years, have strong grasp in programming and problem solving.
+Hello, I love building web applications with modern design. I have been into coding from last 3 years, have strong grasp in programming and problem solving.
+Let's convert an idea into code!!
 
 * 🌍  I'm based in Pune
 * 🖥️  See my portfolio at [portfolio/riteshmoud](http://my-portfolio-eta-eight-36.vercel.app/)
